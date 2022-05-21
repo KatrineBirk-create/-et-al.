@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="202" height="202" viewBox="0 0 202 202">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_412" data-name="Rectangle 412" width="202" height="202" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_209" data-name="Group 209" clip-path="url(#clip-path)">
+    <path id="Path_736" data-name="Path 736" d="M50.5,25.257,25.25.006,0,25.257,25.25,50.507Z" fill="#275757"/>
+    <path id="Path_737" data-name="Path 737" d="M101,25.256,75.749,0,50.5,25.256,75.749,50.506Z" fill="#275757"/>
+    <path id="Path_738" data-name="Path 738" d="M151.5,25.256,126.248,0,101,25.256l25.251,25.251Z" fill="#275757"/>
+    <path id="Path_739" data-name="Path 739" d="M202,25.255,176.747,0,151.5,25.255l25.251,25.251Z" fill="#275757"/>
+    <path id="Path_740" data-name="Path 740" d="M50.5,75.756,25.25,50.5,0,75.756l25.251,25.25Z" fill="#275757"/>
+    <path id="Path_741" data-name="Path 741" d="M101,75.756,75.75,50.5,50.5,75.756l25.251,25.25Z" fill="#275757"/>
+    <path id="Path_742" data-name="Path 742" d="M151.5,75.755,126.249,50.5,101,75.755,126.249,101Z" fill="#275757"/>
+    <path id="Path_743" data-name="Path 743" d="M202,75.754,176.748,50.5,151.5,75.754,176.748,101Z" fill="#275757"/>
+    <path id="Path_744" data-name="Path 744" d="M50.5,126.256,25.252,101,0,126.256l25.251,25.25Z" fill="#275757"/>
+    <path id="Path_745" data-name="Path 745" d="M101,126.255,75.75,101,50.5,126.255l25.251,25.25Z" fill="#275757"/>
+    <path id="Path_746" data-name="Path 746" d="M151.5,126.254,126.25,101,101,126.254,126.25,151.5Z" fill="#275757"/>
+    <path id="Path_747" data-name="Path 747" d="M202,126.253,176.749,101,151.5,126.253l25.251,25.25Z" fill="#275757"/>
+    <path id="Path_748" data-name="Path 748" d="M50.5,176.755,25.252,151.5,0,176.755l25.251,25.25Z" fill="#275757"/>
+    <path id="Path_749" data-name="Path 749" d="M101,176.754,75.752,151.5,50.5,176.754,75.752,202Z" fill="#275757"/>
+    <path id="Path_750" data-name="Path 750" d="M151.5,176.753,126.25,151.5,101,176.753,126.25,202Z" fill="#275757"/>
+    <path id="Path_751" data-name="Path 751" d="M202,176.758,176.75,151.507,151.5,176.757l25.251,25.251Z" fill="#275757"/>
+  </g>
+</svg>
